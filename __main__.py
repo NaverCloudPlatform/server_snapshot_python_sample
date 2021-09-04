@@ -7,7 +7,7 @@ def main(args):
     #start_server("6645579")
     #stop_server("6645579")
     #storage_snapshot("7956620")
-    server_snap_shot()
+    #server_snap_shot()
 
     return {"result": ""}
 
