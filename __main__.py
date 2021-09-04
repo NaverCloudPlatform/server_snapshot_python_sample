@@ -9,6 +9,7 @@ def main(args):
     #storage_snapshot("7956620")
     #server_snap_shot()
 
+
     return {"result": ""}
 
 def start_server(server_instance_id):
